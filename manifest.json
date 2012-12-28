@@ -1,8 +1,8 @@
 {
-  "name": "tlscex"
+  "name": "tlscex",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "Trello list summary chrome extension"
+  "description": "Trello list summary chrome extension",
   "browser_action": {
     "default_icon": "icon.png"
   },
